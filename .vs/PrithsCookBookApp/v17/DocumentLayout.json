@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Prithvi Ghale\\source\\repos\\PrithsCookBookApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2896B030-FA60-43A7-990C-045A2844FEAF}|PrithsCookBookApp\\PrithsCookBookApp.csproj|c:\\users\\prithvi ghale\\source\\repos\\prithscookbookapp\\prithscookbookapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2896B030-FA60-43A7-990C-045A2844FEAF}|PrithsCookBookApp\\PrithsCookBookApp.csproj|solutionrelative:prithscookbookapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2896B030-FA60-43A7-990C-045A2844FEAF}|PrithsCookBookApp\\PrithsCookBookApp.csproj|c:\\users\\prithvi ghale\\source\\repos\\prithscookbookapp\\prithscookbookapp\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2896B030-FA60-43A7-990C-045A2844FEAF}|PrithsCookBookApp\\PrithsCookBookApp.csproj|solutionrelative:prithscookbookapp\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2896B030-FA60-43A7-990C-045A2844FEAF}|PrithsCookBookApp\\PrithsCookBookApp.csproj|c:\\users\\prithvi ghale\\source\\repos\\prithscookbookapp\\prithscookbookapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2896B030-FA60-43A7-990C-045A2844FEAF}|PrithsCookBookApp\\PrithsCookBookApp.csproj|solutionrelative:prithscookbookapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Prithvi Ghale\\source\\repos\\PrithsCookBookApp\\PrithsCookBookApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PrithsCookBookApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Prithvi Ghale\\source\\repos\\PrithsCookBookApp\\PrithsCookBookApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PrithsCookBookApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T02:10:10.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prithvi Ghale\\source\\repos\\PrithsCookBookApp\\PrithsCookBookApp\\Views\\Home\\HomePage.cshtml",
+              "RelativeDocumentMoniker": "PrithsCookBookApp\\Views\\Home\\HomePage.cshtml",
+              "ToolTip": "C:\\Users\\Prithvi Ghale\\source\\repos\\PrithsCookBookApp\\PrithsCookBookApp\\Views\\Home\\HomePage.cshtml",
+              "RelativeToolTip": "PrithsCookBookApp\\Views\\Home\\HomePage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-17T02:09:37.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prithvi Ghale\\source\\repos\\PrithsCookBookApp\\PrithsCookBookApp\\Program.cs",
+              "RelativeDocumentMoniker": "PrithsCookBookApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Prithvi Ghale\\source\\repos\\PrithsCookBookApp\\PrithsCookBookApp\\Program.cs",
+              "RelativeToolTip": "PrithsCookBookApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T02:07:26.232Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
